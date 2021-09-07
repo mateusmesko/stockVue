@@ -1,4 +1,4 @@
-# stock-trader
+# Stock
 
 ## Project setup
 ```
